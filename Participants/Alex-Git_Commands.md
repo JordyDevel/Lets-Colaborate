@@ -5,4 +5,3 @@ git clone- El comando permite bajar la información que se encuentre en git hup 
 git checkout Este comando permite para moverse entre branch.
 git commit Permite Realizar un commit con un comentario. 
 
-
