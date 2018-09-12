@@ -1,10 +1,10 @@
-#Diferencias entre Git y GitHub
+# Diferencias entre Git y GitHub
 - GitHub es un repositorio colaborativo de código
 - Git es software para versionar, con él se mantiene el kernel Linux
 - GitHub permite clonar repositorios que así lo permitan
 - En GitHub se pueden establecer _issues_ así como _fixes_, los cuales se pueden asignar a algún responsable para darle seguimiento
 
-#5 comandos Git
+# 5 comandos Git
 1. git status
   - Muestra los cambios hechos en el repositorio y si hay necesidad de hacer commit
 1. git add _archivo_
