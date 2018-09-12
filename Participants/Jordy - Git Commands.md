@@ -6,14 +6,14 @@
 
 # 5 comandos Git
 1. git status
-  ..- Muestra los cambios hechos en el repositorio y si hay necesidad de hacer commit
+    1. Muestra los cambios hechos en el repositorio y si hay necesidad de hacer commit
 1. git add _archivo_
-  ..- Registra como versión los cambios hechos a _archivo_ para agregarlos al commit
+    1. Registra como versión los cambios hechos a _archivo_ para agregarlos al commit
 1. git commit -m "_mensaje descriptivo_"
-  ..- Agrega una versión de los archivos modificados con un comentario detallado que describa cuáles son dichos cambios
+    1. Agrega una versión de los archivos modificados con un comentario detallado que describa cuáles son dichos cambios
 1. git branches --all
-  ..- Lista los nombres de las ramas creadas al repositorio
+    1. Lista los nombres de las ramas creadas al repositorio
 1. git checkout -b "_nombre de nueva rama_"
-  ..- Crea una rama y mueve el *HEAD* inmediatamente a esa rama
+    1. Crea una rama y mueve el *HEAD* inmediatamente a esa rama
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [x] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
